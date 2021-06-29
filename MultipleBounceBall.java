@@ -25,6 +25,7 @@ public class MultipleBounceBall extends Application {
         MultipleBallPane ballPane = new MultipleBallPane();
         ballPane.setStyle("-fx-border-color: yellow");
 
+        // Buttons
         Button btAdd = new Button("+");
         Button btSubtract = new Button("-");
         HBox hBox = new HBox(10);
