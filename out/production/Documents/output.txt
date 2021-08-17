@@ -1,0 +1,25 @@
+Enter an integer (input ends if it is 0) :
+Enter an integer (input ends if it is 0) :
+Enter an integer (input ends if it is 0) :
+Enter an integer (input ends if it is 0) :
+Enter an integer (input ends if it is 0) :
+Enter an integer (input ends if it is 0) :
+Enter an integer (input ends if it is 0) :
+Enter an integer (input ends if it is 0) :
+Enter an integer (input ends if it is 0) :
+Enter an integer (input ends if it is 0) :
+Enter an integer (input ends if it is 0) :
+Enter an integer (input ends if it is 0) :
+Enter an integer (input ends if it is 0) :
+Enter an integer (input ends if it is 0) :
+Enter an integer (input ends if it is 0) :
+Enter an integer (input ends if it is 0) :
+Enter an integer (input ends if it is 0) :
+Enter an integer (input ends if it is 0) :
+Enter an integer (input ends if it is 0) :
+Enter an integer (input ends if it is 0) :
+Enter an integer (input ends if it is 0) :
+Enter an integer (input ends if it is 0) :
+Enter an integer (input ends if it is 0) :
+Enter an integer (input ends if it is 0) :
+The sum is 518

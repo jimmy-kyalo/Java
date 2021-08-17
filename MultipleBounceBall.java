@@ -16,6 +16,7 @@ import javafx.stage.Stage;
 import javafx.util.Duration;
 
 public class MultipleBounceBall extends Application {
+    // main method
     public static void main(String[] args) {
         launch(args);
     }
